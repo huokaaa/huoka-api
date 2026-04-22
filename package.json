@@ -1,0 +1,14 @@
+{
+  "name": "huoka-api",
+  "version": "1.0.0",
+  "description": "Modular serverless API — api.huoka.eu.org",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "author": "Huoka",
+  "license": "MIT",
+  "dependencies": {
+    "yt-search": "^2.12.0"
+  }
+}
